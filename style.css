@@ -1,0 +1,60 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+    margin:1rem;
+}
+
+header
+{
+    
+    display: flex;
+    justify-content: space-between;
+    ;
+    margin: left 2rem;;
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    font-size: x-large;
+    
+}
+nav{
+    width: 60vw;
+    margin: top 1rem;;
+}
+.bigimg{
+    width: 90vw;
+    margin-left: 2;
+}
+.c1{
+    display: flex;
+    width: 95vw;
+}
+.c2{
+    margin-top: 1rem;
+}
+
+.c1 div{
+    text-align: center;
+    text-align: justify;
+    /* justify-content: space-between; */
+}
+p{
+    font-size: large;
+    text-align: center;
+    line-height: 2rem;
+}
+h1{
+    font-size:x-large;
+    font-weight:normal;
+    text-align: center;
+
+}
+footer{
+    text-align: center;
+    font-size: x-large;
+    background-color: black;
+    color: aliceblue;
+    padding:1rem;
+   
+}
