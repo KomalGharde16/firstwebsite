@@ -9,7 +9,9 @@ header
     display: flex;
     justify-content: space-between;
     ;
-    margin: left 2rem;;
+    /* margin:left1rem; */
+    /* background-color: aqua; */
+    
 }
 ul{
     display: flex;
@@ -23,22 +25,31 @@ nav{
     margin: top 1rem;;
 }
 .bigimg{
-    width: 90vw;
-    margin-left: 2;
+    width: 95vw;
+    margin: left 1rem;;
 }
 .c1{
     display: flex;
     width: 95vw;
 }
 .c2{
-    margin-top: 1rem;
+    margin-top: 2rem;
+    padding: 1px;
+    margin-right: 1rem;
+    /* font-size: large; */
+    /* font-weight: 100; */
 }
 
 .c1 div{
     text-align: center;
     text-align: justify;
+    padding:normal;
     /* justify-content: space-between; */
 }
+.bigimg{
+    margin:1rem;
+}
+
 p{
     font-size: large;
     text-align: center;
